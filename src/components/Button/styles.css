@@ -1,0 +1,15 @@
+.dark-blue{
+    background: #204080;
+}
+
+.dark-blue:hover{
+    background: #4F75C2;
+}
+
+.button{
+    width: 138px;
+    height: 46px;
+    border:none;
+    outline: 0;
+    border-radius: 8px;
+}
