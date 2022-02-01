@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "../Card/Card";
 import ordericon from "../../assets/ordericon.png";
-import './styles.css';
+
 
 const List = ({ data, value, handleOrderBy }: { data: Array<any>, value: any, handleOrderBy:any}) => {
   return (
